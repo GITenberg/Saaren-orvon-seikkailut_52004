@@ -1,5 +1,5 @@
 _repo: Saaren-orvon-seikkailut_52004
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The little savage. Finnish
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '46596'
     url: http://www.gutenberg.org/2009/agents/46596
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marryat, Frederick
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/627
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52004#Saaren-orvon-seikkailut
 gutenberg_issued: '2016-05-05'
 gutenberg_type: Text
 identifiers:
